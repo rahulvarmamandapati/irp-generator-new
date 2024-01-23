@@ -1,0 +1,81 @@
+{
+  "short_name": "Mindtickle",
+  "name": "Mindtickle IRP Generator",
+  "descripiton": "You know your ideal customer profile, but do you know your ideal rep profile? There’s a formula for the perfect sales rep. Build yours with Mindtickle’s IRP generator.",
+  "icons": [
+    {
+      "src": "/favicons/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/favion-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/apple-icon-57x57.png",
+      "size" : "57x57",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/apple-icon-60x60.png",
+      "size" : "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/apple-icon-72x72.png",
+      "size" : "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/apple-icon-114x114.png",
+      "size" : "114x114",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/apple-icon-120x120.png",
+      "size" : "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/apple-icon-144x144.png",
+      "size" : "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/apple-icon-180x180.png",
+      "size" : "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/wp-favicon-76x76.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/wp-favicon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/wp-favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

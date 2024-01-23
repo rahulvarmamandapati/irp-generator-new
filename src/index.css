@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+* {box-sizing: border-box;}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Montserrat', 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 28px;
+  font-weight: normal;
+  color: #57514b;
+}
+
+@media (min-height: 750px) {
+  body {
+    /*overflow: hidden;*/
+  }
+}
+:not(:root):fullscreen {
+  background: white;
+}
+.fullscreen {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+:root {
+  --animate-duration: 0.3s;
+}
